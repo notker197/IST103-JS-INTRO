@@ -1,3 +1,3 @@
-function clickHeading(){
-    alert("hello world") 
+function helloworld(){
+    alert("helloworld") 
 }
